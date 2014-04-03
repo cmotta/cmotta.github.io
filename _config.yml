@@ -22,8 +22,8 @@ categories_path: categories.html
 tags_path: tags.html
 
 # Analytics
-  analytics:
-    google: true # Add tracking code in _includes/_google-analytics.html
+analytics:
+  google: true # Add tracking code in _includes/_google-analytics.html
 
 
 BASE_PATH: http://cmotta.github.io
