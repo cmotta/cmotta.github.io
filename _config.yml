@@ -21,6 +21,11 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
+# Analytics
+  analytics:
+    google: true # Add tracking code in _includes/_google-analytics.html
+
+
 BASE_PATH: http://cmotta.github.io
 
 # All links will be namespaced by BASE_PATH if defined.
